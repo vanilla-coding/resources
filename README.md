@@ -23,3 +23,7 @@
 ## Javascript
 
 - [Equality Table](https://slikts.github.io/js-equality-game/)
+
+## IDE
+
+- [Best VS Code extensions for JavaScript](https://blog.pusher.com/vscode-javascript-node/)
