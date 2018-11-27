@@ -1,5 +1,7 @@
 # 개발을 공부하는 분들에게 도움이 될 만한 자료들
 
+기술 관련 개인 블로그, 공식 문서 링크 등 무엇이든 괜찮습니다. 알고 계신 좋은 자료가 있다면 Pull Request 부탁드립니다. 감사합니다 :-)
+
 ## OS
 
 - [Setting up MAC OS](https://subicura.com/2017/11/22/mac-os-development-environment-setup.html)
