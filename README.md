@@ -31,3 +31,4 @@
 ## Blog
 
 - [2018 Developer Featured Blog List](https://www.huskyhoochu.com/suggested-blogs)
+- [간단히 훑어보는 자바스크립트 기본기 다지기](https://joshua1988.github.io/web-development/javascript/javascript-basic-summary/)
