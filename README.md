@@ -27,3 +27,7 @@
 ## IDE
 
 - [Best VS Code extensions for JavaScript](https://blog.pusher.com/vscode-javascript-node/)
+
+## Blog
+
+- [2018 Developer Featured Blog List](https://www.huskyhoochu.com/suggested-blogs)
