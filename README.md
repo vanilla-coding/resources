@@ -24,6 +24,7 @@
 
 - [Equality Table](https://slikts.github.io/js-equality-game/)
 
+
 ## IDE
 
 - [Best VS Code extensions for JavaScript](https://blog.pusher.com/vscode-javascript-node/)
@@ -32,3 +33,4 @@
 
 - [2018 Developer Featured Blog List](https://www.huskyhoochu.com/suggested-blogs)
 - [간단히 훑어보는 자바스크립트 기본기 다지기](https://joshua1988.github.io/web-development/javascript/javascript-basic-summary/)
+- [Understanding the "this" keyword](https://tylermcginnis.com/this-keyword-call-apply-bind-javascript/)
