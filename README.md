@@ -20,6 +20,10 @@
 - [Visualgo](https://visualgo.net/)
 - [BigOCheatSheet](http://bigocheatsheet.com/)
 
+## CSS
+
+- [CSS Dinner](https://flukeout.github.io/)
+
 ## Javascript
 
 - [Equality Table](https://slikts.github.io/js-equality-game/)
