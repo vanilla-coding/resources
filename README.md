@@ -16,6 +16,7 @@
 - [간단히 훑어보는 자바스크립트 기본기 다지기](https://joshua1988.github.io/web-development/javascript/javascript-basic-summary/)
 - [Understanding the "this" keyword](https://tylermcginnis.com/this-keyword-call-apply-bind-javascript/)
 - [latentflip.com](http://latentflip.com/loupe/?code=JC5vbignYnV0dG9uJywgJ2NsaWNrJywgZnVuY3Rpb24gb25DbGljaygpIHsKICAgIHNldFRpbWVvdXQoZnVuY3Rpb24gdGltZXIoKSB7CiAgICAgICAgY29uc29sZS5sb2coJ1lvdSBjbGlja2VkIHRoZSBidXR0b24hJyk7ICAgIAogICAgfSwgMjAwMCk7Cn0pOwoKY29uc29sZS5sb2coIkhpISIpOwoKc2V0VGltZW91dChmdW5jdGlvbiB0aW1lb3V0KCkgewogICAgY29uc29sZS5sb2coIkNsaWNrIHRoZSBidXR0b24hIik7Cn0sIDUwMDApOwoKY29uc29sZS5sb2coIldlbGNvbWUgdG8gbG91cGUuIik7!!!PGJ1dHRvbj5DbGljayBtZSE8L2J1dHRvbj4%3D) - Event Loop
+- [Poima Web](https://poiemaweb.com/) - 자바스크립트 뿐 아니라 HTML, CSS도 잘 정리된 곳
 
 ## Data Structures & Algorithms
 
@@ -27,6 +28,7 @@
 
 - [Learn Git Branching](https://learngitbranching.js.org/)
 - [Visualize Git with D3](https://onlywei.github.io/explain-git-with-d3/)
+- [Git 커밋 메시지 작성법](https://item4.github.io/2016-11-01/How-to-Write-a-Git-Commit-Message/)
 
 ## IDE
 
