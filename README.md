@@ -18,6 +18,10 @@
 - [latentflip.com](http://latentflip.com/loupe/?code=JC5vbignYnV0dG9uJywgJ2NsaWNrJywgZnVuY3Rpb24gb25DbGljaygpIHsKICAgIHNldFRpbWVvdXQoZnVuY3Rpb24gdGltZXIoKSB7CiAgICAgICAgY29uc29sZS5sb2coJ1lvdSBjbGlja2VkIHRoZSBidXR0b24hJyk7ICAgIAogICAgfSwgMjAwMCk7Cn0pOwoKY29uc29sZS5sb2coIkhpISIpOwoKc2V0VGltZW91dChmdW5jdGlvbiB0aW1lb3V0KCkgewogICAgY29uc29sZS5sb2coIkNsaWNrIHRoZSBidXR0b24hIik7Cn0sIDUwMDApOwoKY29uc29sZS5sb2coIldlbGNvbWUgdG8gbG91cGUuIik7!!!PGJ1dHRvbj5DbGljayBtZSE8L2J1dHRvbj4%3D) - Event Loop
 - [Poima Web](https://poiemaweb.com/) - 자바스크립트 뿐 아니라 HTML, CSS도 잘 정리된 곳
 
+### React
+
+- [Overreacted](https://overreacted.io/) 리덕스의 창시자, 댄 아브라모프의 개인 블로그
+
 ## Data Structures & Algorithms
 
 - [Visualgo](https://visualgo.net/)
