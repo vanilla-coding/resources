@@ -14,6 +14,7 @@
 - [Can I Use?](https://caniuse.com/)
 - [Clippy](http://bennettfeely.com/clippy/)
 - [Cubic-bezier function generator](http://cubic-bezier.com/#.17,.67,.83,.67)
+- [CSS easing functions](https://easings.net/ko)
 
 ## Javascript
 
