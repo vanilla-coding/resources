@@ -13,6 +13,7 @@
 - [CSS3 Reference by Codrops](https://tympanus.net/codrops/css_reference/)
 - [Can I Use?](https://caniuse.com/)
 - [Clippy](http://bennettfeely.com/clippy/)
+- [Cubic-bezier function generator](http://cubic-bezier.com/#.17,.67,.83,.67)
 
 ## Javascript
 
