@@ -52,5 +52,4 @@
 ## ETC
 
 - [2018 Developer Featured Blog List](https://www.huskyhoochu.com/suggested-blogs)
-- [JavaScript 배틀그라운드로부터 살아남기]
-(https://tv.naver.com/v/4578347/list/279844)
+- [JavaScript 배틀그라운드로부터 살아남기](https://tv.naver.com/v/4578347/list/279844)
