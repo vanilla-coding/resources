@@ -7,8 +7,14 @@
 - [Setting up MAC OS](https://subicura.com/2017/11/22/mac-os-development-environment-setup.html)
 
 ## HTML & CSS
-
+- [HTML special characters](https://css-tricks.com/snippets/html/glyphs/)
 - [CSS Dinner](https://flukeout.github.io/)
+- [The 30 CSS Selectors You Must Memorize](https://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048)
+- [CSS3 Reference by Codrops](https://tympanus.net/codrops/css_reference/)
+- [Can I Use?](https://caniuse.com/)
+- [Clippy](http://bennettfeely.com/clippy/)
+- [Cubic-bezier function generator](http://cubic-bezier.com/#.17,.67,.83,.67)
+- [CSS easing functions](https://easings.net/ko)
 
 ## Javascript
 
