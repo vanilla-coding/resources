@@ -9,6 +9,7 @@
 ## HTML & CSS
 - [HTML special characters](https://css-tricks.com/snippets/html/glyphs/)
 - [CSS Dinner](https://flukeout.github.io/)
+- [The ultimate guide to proper use of animation in UX](https://uxdesign.cc/the-ultimate-guide-to-proper-use-of-animation-in-ux-10bd98614fa9)
 - [The 30 CSS Selectors You Must Memorize](https://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048)
 - [CSS3 Reference by Codrops](https://tympanus.net/codrops/css_reference/)
 - [Can I Use?](https://caniuse.com/)
