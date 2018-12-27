@@ -54,5 +54,5 @@
 ## ETC
 
 - [2018 Developer Featured Blog List](https://www.huskyhoochu.com/suggested-blogs)
-- [Developer Cheet Sheet](https://devhints.io/)
+- [Developer Cheat Sheet](https://devhints.io/)
 - [Front-End Developer Handbook 2018](https://frontendmasters.com/books/front-end-handbook/2018/)
