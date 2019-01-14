@@ -31,6 +31,9 @@
 ### React
 
 - [Overreacted](https://overreacted.io/) 리덕스의 창시자, 댄 아브라모프의 개인 블로그
+- [React Style Guide](https://github.com/airbnb/javascript/tree/master/react) - Airbnb React 스타일 가이드
+- [Hello React](https://blog.gaerae.com/2016/04/hello-react.html) - 전반적인 React 소개
+- [비공식 React 한글 문서](https://reactjs-kr.firebaseapp.com/)
 
 ## Data Structures & Algorithms
 
